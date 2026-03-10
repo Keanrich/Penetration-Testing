@@ -155,7 +155,7 @@ Tools used during the assessment:
 
 The following diagram illustrates the attack chain used during this penetration testing exercise.
 
-!\[Attack Flow](screenshots/diagram.png)
+!\[Attack Flow](./screenshots/diagram.png)
 
 
 
