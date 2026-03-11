@@ -69,6 +69,7 @@ Create a New Virtual Machine
 ## 2 Select Kali Linux ISO
 
 Download Kali Linux from the official website and select the ISO file during VM creation.
+
 ![Select ISO](screenshots/select-iso1.png)
 ![Select ISO](screenshots/select-iso2.png)
 
@@ -192,5 +193,6 @@ Do not perform scanning or penetration testing on systems without proper authori
 ---
 
 **Author**
+
 
 Cybersecurity Learning Project
